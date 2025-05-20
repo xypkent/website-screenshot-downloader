@@ -37,4 +37,5 @@ Thumbs.db
 # 项目相关
 enhanced_screenshots/
 enhanced_single/
+case_screenshots/
 *.log
