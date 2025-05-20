@@ -38,4 +38,5 @@ Thumbs.db
 enhanced_screenshots/
 enhanced_single/
 case_screenshots/
+screenshot_downloader_username.py
 *.log
